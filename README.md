@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My interests are:
+* Data Science
+* Math
+* Machine Learning
+* Deep Learning
+* AI
+* LLMs
 <!--
 **Ivan-git-edu/Ivan-git-edu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
